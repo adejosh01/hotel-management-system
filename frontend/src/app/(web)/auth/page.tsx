@@ -120,7 +120,7 @@ const Auth = () => {
                     </button>
 
                 </form>
-                <button className='text-blue-700 underline'>
+                <button onClick={loginHandler} className='text-blue-700 underline'>
                     login
                 </button>
             </div>
