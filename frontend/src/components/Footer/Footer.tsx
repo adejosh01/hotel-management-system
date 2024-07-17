@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <div className='flex items-center'>
               <BsTelephoneOutbound />
-              <p className='ml-2'>000-000-00</p>
+              <p className='ml-2'>000-000</p>
             </div>
             <div className='flex items-center pt-4'>
               <BiMessageDetail />
